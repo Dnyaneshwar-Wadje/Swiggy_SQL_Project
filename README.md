@@ -95,7 +95,7 @@ The project is based on 4 CSV files:
 
 ## 💬 Let's Connect!
 
-Connect with me on [LinkedIn](https://linkedin.com](https://www.linkedin.com/in/dnyaneshwar-wadje-94ba03236/)).  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/dnyaneshwar-wadje-94ba03236/).  
 I’m always open to feedback, suggestions, and new opportunities to grow as a data analyst.
 
 ---
