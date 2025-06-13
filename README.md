@@ -67,8 +67,6 @@ The project is based on 4 CSV files:
 - Which delivery partner delivers the fastest?
 - What are the monthly revenue trends over time?
 
-👉 Check the full list in [`Swiggy_Questions.sql`](./Swiggy_Questions.sql)  
-👉 See all queries in [`Swiggy_Answers.sql`](./Swiggy_Answers.sql)
 
 ---
 
